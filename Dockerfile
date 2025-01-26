@@ -5,7 +5,7 @@ RUN apt-get update && apt-get install -y \
     git 
 
 
-sudo apt install python3-pyyaml
+RUN pip install PyYAML --break-system-packages
 
 # RUN pip3 install PyYAML
 
