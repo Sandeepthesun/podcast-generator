@@ -1,4 +1,4 @@
-name: "Podcast RSS Feed Generator"
+name: "Podcast RSS Feed Generator testing"
 author: "Sandeep Kumar Singh"
 description : "Generates a feed for a podcast from a yaml file"
 runs:
